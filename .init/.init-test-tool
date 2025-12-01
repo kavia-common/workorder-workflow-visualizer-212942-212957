@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/workorder-workflow-visualizer-212942-212957/workorder_frontend"
+}
